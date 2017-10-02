@@ -20,7 +20,7 @@ public class Example {
 		System.out.println(b);*/
 
 		for(int i=1;i<=10;i++){
-			System.out.println("hi no -"+i);
+			System.out.println("hi no - "+i);
 		}
 		System.out.println("But you didn't reply :(");
 	}
